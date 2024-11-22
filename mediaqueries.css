@@ -103,4 +103,7 @@
     .text-container {
         text-align: justify;
     }
+    arrow {
+        display: none;
+    }
 }
