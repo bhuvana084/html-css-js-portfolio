@@ -427,3 +427,7 @@ footer {
 footer p {
     text-align: center;
 }
+
+footer div.btn-container {
+    padding-bottom: 2rem;
+}
