@@ -68,7 +68,7 @@
     .contact-info-container {
         margin: 0;
     }
-    .contact-info-container p .nav-links li a {
+    .contact-info-container p a, .contact-info-container p i {
         font-size: 1rem;
     }
     .experience-sub-title {
